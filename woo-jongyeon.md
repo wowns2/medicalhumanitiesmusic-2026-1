@@ -14,9 +14,13 @@ ICD:
 
 *Years: Dan Reynolds (1987 - Present)*
 
+*Youtube link: https://www.youtube.com/watch?v=7wtfhZwyrcc*
+
 *Description: The song addresses the physical and mental pain caused by Dan Reynolds' chronic illness, Ankylosing Spondylitis, and depression. It portrays suffering not as a mere obstacle but as a catalyst that built his faith and strength.*
 
-*Reflection on the Musical Depiction: The song depicts the intensity of physical pain through explosive percussion and a resolute rhythm. The heavy, gritty drum beats dominate the track, representing the sharp sensations of chronic pain and the strong will to confront it. In the chorus, the raw vocals shouting the word "Pain" demonstrate the process of transforming agony into art. The syncopated rhythm, mimicking a limping yet forward-moving gait, effectively illustrates the dynamic vitality of an individual living with a chronic condition.*
+*Reflection on the Musical Depiction: The song depicts the intensity of physical pain through explosive percussion and a resolute rhythm. The heavy, gritty drum beats dominate the track, representing the sharp sensations of chronic pain and the strong will to confront it. In the chorus, the raw vocals shouting the word "Pain" demonstrate the process of transforming agony into art. The syncopated rhythm, mimicking a limping yet forward-moving gait, effectively illustrates the dynamic vitality of an individual living with a chronic condition. Regarding this article, it would also be helpful to refer to [The Flow of Movies](yang-dongwon.md).*
+
+<img width="1536" height="1024" alt="believer" src="https://github.com/user-attachments/assets/b4826b30-491f-4cb0-9fee-b3bf0a0acdc9" />
 
 # 믿는 자
 
@@ -25,6 +29,8 @@ ICD:
 *작곡가: 댄 레이놀즈*
 
 *생존 연도: 댄 레이놀즈 (1987~ 현재)*
+
+*유튜브 링크: https://www.youtube.com/watch?v=7wtfhZwyrcc*
 
 *줄거리: 보컬 댄 레이놀즈가 앓고 있는 희귀 난치성 질환인 강직성 척추염과 우울증을 다룬다. 신체적 통증과 정식적 고통을 단순히 장애물이 아니라 자신을 성장시키고 신념을 갖게 만든 원동력으로 승화시키는 과정을 담고 있다.*
 
