@@ -14,7 +14,7 @@ This [series](https://www.youtube.com/watch?v=wJWksPWDKOc) was created by a Brit
 
 In this work, music helps listeners experience how memory disappears and how the sense of self becomes unstable in dementia. Even though dementia is not Kirby’s own condition but part of the “The Caretaker” concept, the work expresses dementia as a subjective experience rather than just an objective disease. By turning memory loss and confusion into sound, the music allows listeners to feel and understand the pain of dementia more directly. In this regard, referencing the [content of other movies](kim-nakyeon.md) may also be helpful.
 
-<img src="./lee-junhyeon.png" alt="Everywhere at the end of time" width="33%" />
+<img src="./lee-junhyeon.png" alt="Everywhere at the end of time" width="50%" />
 
 # 시간의 끝 어디에서나 (*Everywhere at the end of time*)
 
