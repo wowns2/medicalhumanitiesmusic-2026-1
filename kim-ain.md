@@ -12,7 +12,7 @@ In *La Traviata*, Verdi represents Violetta’s physical decline through musical
 
 [Listen to Act III of La Traviata, where Violetta’s physical decline and musical “fragmentation” are expressed](https://www.youtube.com/watch?v=Do4Ei7Cio2g)
 
-<img src="./kim-ain.png" alt="Abstract image inspired by La Traviata" style="width:25%;" />
+<img src="./kim-ain.png" alt="Abstract image inspired by La Traviata" style="width:40%;" />
 
 # 오페라 <라 트라비아타>
 
