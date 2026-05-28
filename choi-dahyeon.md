@@ -17,7 +17,7 @@ In *Inside Llewyn Davis* (2013), folk music does not simply describe depression,
 ## 줄거리
 포크 가수 르윈 데이비스는 파트너의 죽음 이후 홀로 남겨진 채, 음악과 삶 모두에서 방향을 잃는다. 뉴욕을 떠돌며 기회를 찾지만 결국 원점으로 돌아오고, 영화는 같은 장면으로 시작과 끝이 이어지며 그의 정체된 삶을 보여준다.
 
-<img src="./choi-dahyeon.png" alt="Inside Llewyn Davis Depression" style="width:35%;" />
+<img src="./choi-dahyeon.png" alt="A melancholic man walking in winter, symbolizing depression and stagnation in Inside Llewyn Davis" style="width:50%;" />
 
 ## 실존 인물 배경
 - Dave Van Ronk (1936–2002)  
